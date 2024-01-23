@@ -5,10 +5,12 @@ nav_order: 2
 ---
 
 ### Preprint
+- Samuel Kernan Freire, **Chaofan Wang**, Mina Foosherian, Stefan Wellsandt, Santiago Ruiz-Arenas, and Evangelos Niforatos. Knowledge sharing in manufacturing using large language models: User evaluation and model benchmarking. arXiv preprint arXiv:2401.05200, 2024 [pdf](https://arxiv.org/abs/2401.05200)
 - **Chaofan Wang**, Samuel Kernan Freire, Mo Zhang, Jing Wei, Jorge Goncalves, Vassilis Kostakos, Zhanna Sarsenbayeva, Christina Schneegass, Alessandro Bozzon, and Evangelos Niforatos. Safeguarding crowdsourcing surveys from chatgpt with prompt injection. arXiv preprint arXiv:2306.08833, 2023 [pdf](https://arxiv.org/abs/2306.08833)
 
 ### 2023
 - Weiwei Jiang, **Chaofan Wang**, Zhanna Sarsenbayeva, Andrew Irlitti, Jing Wei, Jarrod Knibbe, Tilman Dingler, Jorge Goncalves, and Vassilis Kostakos. Infoprint: Embedding interactive information in 3d prints using low-cost readily-available printers and materials. Proc. ACM Interact. Mob. Wearable Ubiquitous Technol., 7(3), sep 2023 [pdf](https://dl.acm.org/doi/10.1145/3610933)
+- Samuel Kernan Freire, Ji-Youn Jung, **Chaofan Wang**, Evangelos Niforatos, and Alessandro Bozzon. How emoji and explanations influence adherence to ai recommendations. In Proceedings of the 23rd ACM International Conference on Intelligent Virtual Agents, pages 1–5, 202 [pdf](https://dl.acm.org/doi/10.1145/3570945.3607300)
 - Samuel Kernan Freire, Mina Foosherian, **Chaofan Wang**, and Evangelos Niforatos. Harnessing large language models for cognitive assistants in factories. In Proceedings of the 5th International Conference on Conversational User Interfaces, pages 1–6, 2023 [pdf](https://dl.acm.org/doi/fullHtml/10.1145/3571884.3604313)
 - **Chaofan Wang**, Weiwei Jiang, Kangning Yang, Zhanna Sarsenbayeva, Benjamin Tag, Tilman Dingler, Jorge Goncalves, and Vassilis Kostakos. Using thermal imaging to measure hand hygiene quality. Journal of Hospital Infection, 2023 [pdf](https://www.sciencedirect.com/science/article/pii/S0195670123001718)
 - Samuel Kernan Freire, **Chaofan Wang**, Santiago Ruiz-Arenas, and Evangelos Niforatos. Tacit knowledge elicitation for shop-floor workers with an intelligent assistant. In Extended Abstracts of the 2023 CHI Conference on Human Factors in Computing Systems, CHI EA ’23, New York, NY, USA, 2023. Association for Computing Machinery [pdf](https://dl.acm.org/doi/fullHtml/10.1145/3544549.3585755)
@@ -30,7 +32,7 @@ nav_order: 2
 ### 2020
 - Difeng Yu, Weiwei Jiang, **Chaofan Wang**, Tilman Dingler, Eduardo Velloso, and Jorge Goncalves.ShadowDancXR: Body Gesture Digitization for Low-Cost Extended Reality (XR) Headsets. In Companion Proceedings of the 2020Conference on Interactive Surfaces and Spaces, page 79–80, New York, NY, USA, 2020. Association for Computing Machinery [pdf](https://dl.acm.org/doi/10.1145/3380867.3426222)
 - Kangning Yang, **Chaofan Wang**, Zhanna Sarsenbayeva, Benjamin Tag, Tilman Dingler, Greg Wadley, and Jorge Goncalves. Benchmarking commercial emotion detection systems using realistic distortions of facial image datasets. The Visual Computer, pages 1–20, 2020 [pdf](https://link.springer.com/article/10.1007/s00371-020-01881-x)
-**Chaofan Wang**, Zhanna Sarsenbayeva, Xiuge Chen, Tilman Dingler, Jorge Goncalves, and Vassilis Kostakos. Accurate measurement of handwash quality using sensor armbands: Instrument validation study. JMIR Mhealth Uhealth, 8(3):e17001, Mar 2020 [pdf](https://mhealth.jmir.org/2020/3/e17001/)
+- **Chaofan Wang**, Zhanna Sarsenbayeva, Xiuge Chen, Tilman Dingler, Jorge Goncalves, and Vassilis Kostakos. Accurate measurement of handwash quality using sensor armbands: Instrument validation study. JMIR Mhealth Uhealth, 8(3):e17001, Mar 2020 [pdf](https://mhealth.jmir.org/2020/3/e17001/)
 
 ### 2019
 - **Chaofan Wang**, Zhanna Sarsenbayeva, Chu Luo, Jorge Goncalves, and Vassilis Kostakos. Improving wearable sensor data quality using context markers. In International Joint Conference on Pervasive and Ubiquitous Computing, UbiComp Adjunct, 2019 [pdf](https://dl.acm.org/doi/10.1145/3341162.3349334)
