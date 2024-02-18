@@ -5,7 +5,7 @@ nav_order: 2
 ---
 
 ### Preprint
-- Samuel Kernan Freire, Chaofan Wang, and Evangelos Niforatos. Chatbots in knowledge-intensive contexts: Comparing intent and llm-based systems. arXiv preprint arXiv:2402.04955, 2024 [pdf](https://arxiv.org/abs/2402.04955)
+- Samuel Kernan Freire, **Chaofan Wang**, and Evangelos Niforatos. Chatbots in knowledge-intensive contexts: Comparing intent and llm-based systems. arXiv preprint arXiv:2402.04955, 2024 [pdf](https://arxiv.org/abs/2402.04955)
 - Samuel Kernan Freire, **Chaofan Wang**, Mina Foosherian, Stefan Wellsandt, Santiago Ruiz-Arenas, and Evangelos Niforatos. Knowledge sharing in manufacturing using large language models: User evaluation and model benchmarking. arXiv preprint arXiv:2401.05200, 2024 [pdf](https://arxiv.org/abs/2401.05200)
 - **Chaofan Wang**, Samuel Kernan Freire, Mo Zhang, Jing Wei, Jorge Goncalves, Vassilis Kostakos, Zhanna Sarsenbayeva, Christina Schneegass, Alessandro Bozzon, and Evangelos Niforatos. Safeguarding crowdsourcing surveys from chatgpt with prompt injection. arXiv preprint arXiv:2306.08833, 2023 [pdf](https://arxiv.org/abs/2306.08833)
 

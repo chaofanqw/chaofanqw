@@ -4,6 +4,9 @@ title: Projects
 nav_order: 1
 ---
 
+- ### Using Large Language Model to Facilitate Information Perception
+This research aims to evaluate large language models' ability to summarize mobile notifications across multiple types of summarization techniques.
+
 - ### COALA (Horizon 2020 Project)
 This research aims to provide a solution for cognitive assistance that consists of a composition of trustworthy AI components with a voice-enabled digital intelligent assistant as an interface.
 
